@@ -20,6 +20,7 @@ in the style of a professional penetration test report.
 | # | Lab | Category | Difficulty | Status |
 |---|-----|----------|------------|--------|
 | 01 | SQL Injection in WHERE Clause | SQL Injection | Apprentice | ✅ Done |
+| 02 | SQL Injection Login Bypass | SQL Injection | Apprentice | ✅ Done |
 
 ---
 
